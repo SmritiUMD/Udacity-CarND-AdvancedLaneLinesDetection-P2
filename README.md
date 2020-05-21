@@ -136,17 +136,4 @@ I implemented the code in function draw_lanes to warp the detected lines back.
 
 ---
 
-### Pipeline (video)
-
-#### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
-
-Here's a [link to my video result](./project_video_solution.mp4)
-
----
-
-### Discussion
-
-#### 1. Briefly discuss any problems / issues you faced in your implementation of this project.  Where will your pipeline likely fail?  What could you do to make it more robust?
-I hardcoded the warping points which is not good method in a longer run. Instead, we can use a more robust and generalised method for the point selection.
-Also, the car will not always move inside lanes. When it comes to changing lanes, taking turns on opposite side of road, it will fail.
-On uneven roads with slopes and elevation, this warping points may create problem as the angle of camera will vary.
+![alt txt](https://github.com/SmritiUMD/Udacity-Self-DrivingCarND-AdvancedLaneLinesDetection-P2/blob/master/Lanedetection.gif)
