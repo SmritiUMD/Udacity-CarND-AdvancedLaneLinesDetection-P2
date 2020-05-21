@@ -18,19 +18,19 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 ![image1](./https://github.com/SmritiUMD/Udacity-CarND-AdvancedLaneLinesDetection-P2/tree/master/output_images/step2.png)
-[image2]: ./https://github.com/SmritiUMD/Udacity-Self-DrivingCarND-AdvancedLaneLinesDetection-P2/tree/master/output_images/step3-1-1.png
-[image3]: ./https://github.com/SmritiUMD/Udacity-Self-DrivingCarND-AdvancedLaneLinesDetection-P2/tree/master/output_images/step3-1-2.png
-[image4]: ./https://github.com/SmritiUMD/Udacity-Self-DrivingCarND-AdvancedLaneLinesDetection-P2/tree/master/output_images/step3-2.png
-[image7]: ./https://github.com/SmritiUMD/Udacity-Self-DrivingCarND-AdvancedLaneLinesDetection-P2/tree/master/output_images/step3-3.png
-[image8]: ./https://github.com/SmritiUMD/Udacity-Self-DrivingCarND-AdvancedLaneLinesDetection-P2/tree/master/output_images/step3-4.png
-[image5]: ./https://github.com/SmritiUMD/Udacity-Self-DrivingCarND-AdvancedLaneLinesDetection-P2/tree/master/output_images/step3-5.png
+![image2](./https://github.com/SmritiUMD/Udacity-Self-DrivingCarND-AdvancedLaneLinesDetection-P2/tree/master/output_images/step3-1-1.png)
+![image3]( ./https://github.com/SmritiUMD/Udacity-Self-DrivingCarND-AdvancedLaneLinesDetection-P2/tree/master/output_images/step3-1-2.png)
+![image4](./https://github.com/SmritiUMD/Udacity-Self-DrivingCarND-AdvancedLaneLinesDetection-P2/tree/master/output_images/step3-2.png)
+![image7](./https://github.com/SmritiUMD/Udacity-Self-DrivingCarND-AdvancedLaneLinesDetection-P2/tree/master/output_images/step3-3.png)
+![image8]( ./https://github.com/SmritiUMD/Udacity-Self-DrivingCarND-AdvancedLaneLinesDetection-P2/tree/master/output_images/step3-4.png)
+![image5](./https://github.com/SmritiUMD/Udacity-Self-DrivingCarND-AdvancedLaneLinesDetection-P2/tree/master/output_images/step3-5.png)
 
-[image9]: ./https://github.com/SmritiUMD/Udacity-Self-DrivingCarND-AdvancedLaneLinesDetection-P2/tree/master/output_images/step4.png
-[image10]: ./https://github.com/SmritiUMD/Udacity-Self-DrivingCarND-AdvancedLaneLinesDetection-P2/tree/master/output_images/step5-1.png
-[image11]: ./https://github.com/SmritiUMD/Udacity-Self-DrivingCarND-AdvancedLaneLinesDetection-P2/tree/master/output_images/step5-2.png
-[image12]: ./https://github.com/SmritiUMD/Udacity-Self-DrivingCarND-AdvancedLaneLinesDetection-P2/tree/master/output_images/step5-3.png
-[image13]: ./https://github.com/SmritiUMD/Udacity-Self-DrivingCarND-AdvancedLaneLinesDetection-P2/tree/master/output_images/step7.png
-[image14]: ./https://github.com/SmritiUMD/Udacity-Self-DrivingCarND-AdvancedLaneLinesDetection-P2/tree/master/output_images/step8.png
+![image9]( ./https://github.com/SmritiUMD/Udacity-Self-DrivingCarND-AdvancedLaneLinesDetection-P2/tree/master/output_images/step4.png)
+![image10](./https://github.com/SmritiUMD/Udacity-Self-DrivingCarND-AdvancedLaneLinesDetection-P2/tree/master/output_images/step5-1.png)
+![image11]( ./https://github.com/SmritiUMD/Udacity-Self-DrivingCarND-AdvancedLaneLinesDetection-P2/tree/master/output_images/step5-2.png)
+![image12]( ./https://github.com/SmritiUMD/Udacity-Self-DrivingCarND-AdvancedLaneLinesDetection-P2/tree/master/output_images/step5-3.png)
+![image13]( ./https://github.com/SmritiUMD/Udacity-Self-DrivingCarND-AdvancedLaneLinesDetection-P2/tree/master/output_images/step7.png)
+![image14]( ./https://github.com/SmritiUMD/Udacity-Self-DrivingCarND-AdvancedLaneLinesDetection-P2/tree/master/output_images/step8.png)
 [video1]: ./project_video.mp4 "Video"
 
 
