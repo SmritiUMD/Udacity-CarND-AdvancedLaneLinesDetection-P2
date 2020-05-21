@@ -17,7 +17,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-![alt txt]( ./https://github.com/SmritiUMD/Udacity-CarND-AdvancedLaneLinesDetection-P2/tree/master/output_images/step2.png)
+[image1]: ./https://github.com/SmritiUMD/Udacity-CarND-AdvancedLaneLinesDetection-P2/tree/master/output_images/step2.png
 [image2]: ./https://github.com/SmritiUMD/Udacity-Self-DrivingCarND-AdvancedLaneLinesDetection-P2/tree/master/output_images/step3-1-1.png
 [image3]: ./https://github.com/SmritiUMD/Udacity-Self-DrivingCarND-AdvancedLaneLinesDetection-P2/tree/master/output_images/step3-1-2.png
 [image4]: ./https://github.com/SmritiUMD/Udacity-Self-DrivingCarND-AdvancedLaneLinesDetection-P2/tree/master/output_images/step3-2.png
